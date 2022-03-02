@@ -31,6 +31,7 @@
 - 신규 미르니 서비스 출시 작업
 
 **[사용할 기술]**
+현재 익숙하지 않으셔도 협업하면서 습득하실수 있습니다
 - React/React-Native
 - Node.js
 - Javascript/HTML/CSS
